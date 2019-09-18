@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/catster/static/css/main.2cce8147.chunk.css",
+    "main.js": "/catster/static/js/main.9b4186f7.chunk.js",
+    "main.js.map": "/catster/static/js/main.9b4186f7.chunk.js.map",
+    "runtime~main.js": "/catster/static/js/runtime~main.ecdaed5d.js",
+    "runtime~main.js.map": "/catster/static/js/runtime~main.ecdaed5d.js.map",
+    "static/js/2.2760647e.chunk.js": "/catster/static/js/2.2760647e.chunk.js",
+    "static/js/2.2760647e.chunk.js.map": "/catster/static/js/2.2760647e.chunk.js.map",
+    "index.html": "/catster/index.html",
+    "precache-manifest.cd0aa22209a4318b290edaba5cc5880e.js": "/catster/precache-manifest.cd0aa22209a4318b290edaba5cc5880e.js",
+    "service-worker.js": "/catster/service-worker.js",
+    "static/css/main.2cce8147.chunk.css.map": "/catster/static/css/main.2cce8147.chunk.css.map"
+  }
+}
